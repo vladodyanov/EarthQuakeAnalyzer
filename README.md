@@ -14,7 +14,7 @@ A comprehensive Python-based tool for analyzing and visualizing seismic activity
 
 
 ## General Information
-TBA
+EarthQuakeAnalyzer (EQA) is a powerful tool designed for evertbody who has interest in seismology and related fields. It allows users to fetch, process, analyze, and visualize earthquake data from the USGS API. The application provides a user-friendly interface for inputting parameters and displays comprehensive analysis results, including statistical data, visualizations, and seismic hazard assessments.
 
 
 ## Technologies Used
