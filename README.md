@@ -63,7 +63,15 @@ Note: wxPython might require additional setup steps depending on your operating 
 Project is: underdevelopment
 
 ## Room for Improvement
-TBA
+ - Areas for improvement:
+   - Implement caching of earthquake data for faster repeated analyses
+   - Add more interactive features to the world map visualization
+   - Expand the range of statistical analyses offered
+
+- Future features:
+  - Export functionality for analysis results and visualizations
+  - Comparison tool for analyzing seismic activity across different time periods or regions
+  - Integration with additional data sources for more comprehensive analysis
 
 
 ## Contact
