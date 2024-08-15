@@ -45,7 +45,10 @@ EarthQuakeAnalyzer (EQA) is a powerful tool designed for evertbody who has inter
 TBA
 
 ## Setup
-TBA
+To run this project, install it locally using pip:
+pip install -r requirements.txt
+Note: wxPython might require additional setup steps depending on your operating system. Please refer to the wxPython documentation for specific instructions.
+
 ## Usage
 TBA
 
