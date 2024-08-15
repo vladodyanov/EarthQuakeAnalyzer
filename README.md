@@ -50,7 +50,14 @@ pip install -r requirements.txt
 Note: wxPython might require additional setup steps depending on your operating system. Please refer to the wxPython documentation for specific instructions.
 
 ## Usage
-TBA
+1. Run the main.py file to start the application:
+ - python main.py
+2. Use the GUI to input the desired parameters:
+3. Select Start and end dates for the analysis period
+4. Minimum magnitude of earthquakes to consider
+5. Select a continent (or all continents)
+6. Click the "Analyze" button to process the data and view the results
+7. Explore the generated visualizations and analysis reports
 
 ## Project Status
 Project is: underdevelopment
