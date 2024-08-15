@@ -27,7 +27,19 @@ EarthQuakeAnalyzer (EQA) is a powerful tool designed for evertbody who has inter
 
 
 ## Features
--TBA
+- Fetch and process earthquake data from USGS API
+- Interactive GUI for data input and result display
+- Advanced seismic activity analysis, including:
+  - Aftershock patterns
+  - Activity change over time
+  - Correlation between earthquake depth and magnitude
+- Seismic hazard assessment with region-specific recommendations
+- Analysis of seismic activity changes between two time periods
+- Continent-based filtering of earthquake data
+- Visualizations including:
+  - Time series plots
+  - Magnitude distributions
+  - Interactive world maps
 
 ## Screenshots
 TBA
