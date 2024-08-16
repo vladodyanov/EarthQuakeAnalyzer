@@ -42,7 +42,7 @@ EarthQuakeAnalyzer (EQA) is a powerful tool designed for evertbody who has inter
   - Interactive world maps
 
 ## Screenshots
-TBA
+<img align="center" width=480px  alt="home page view" src="https://github.com/vladodyanov/EarthQuakeAnalyzer/blob/main/screenshots/Screenshot%202024-08-15%20104948.jpg" />
 
 ## Setup
 To run this project, install it locally using pip:
