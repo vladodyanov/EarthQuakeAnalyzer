@@ -1,5 +1,5 @@
 # EarthQuakeAnalyzer
-A comprehensive Python-based tool for analyzing and visualizing seismic activity data. EQA provides in-depth insights into earthquake patterns, magnitudes, and geographical distributions.
+Wellcome to my first Data Science project. A comprehensive Python-based tool for analyzing and visualizing seismic activity data. EQA provides in-depth insights into earthquake patterns, magnitudes, and geographical distributions. All seizmic data is provided by The U.S. Geological Survey ( https://www.usgs.gov/).
 
 ## Table of Contents
 * [General Info](#general-information)
