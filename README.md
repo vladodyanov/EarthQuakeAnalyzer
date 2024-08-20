@@ -20,10 +20,10 @@ EarthQuakeAnalyzer (EQA) is a powerful tool designed for evertbody who has inter
 ## Technologies Used
 - Python - version 3.11
 - NumPy - 2.0.1
-- Pandas
+- Pandas - 2.2.2
 - CartoPy - 0.23.0
 - MathplotLib - 3.9.2
-- wxPython
+- wxPython - 4.2.1
 
 
 ## Features
